@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Finder</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+</head>
+<body>
+    <header>
+        <h1>Healthcare Finder</h1>
+    </header>
+    <div class="container">
+        <aside>
+            <div class="search">
+                <select id="place-type">
+                    <option value="hospital">Hospital</option>
+                    <option value="doctor">Doctor</option>
+                    <option value="pharmacy">Medical Store</option>
+                    <option value="bloodbank">Blood Bank</option>
+
+                </select>
+                <button id="search-btn">Find Nearby</button>
+            </div>
+            <ul id="place-list"></ul>
+        </aside>
+        <main>
+            <div id="map"></div>
+        </main>
+    </div>
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
