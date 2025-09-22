@@ -29,6 +29,6 @@ A simple and interactive **web application** to find nearby **hospitals, doctors
 ---
 
 ## Deployment
-- Hosted on **GitHub Pages** — anyone can access it via `https://parasjain2006.github.io/healthcare-finder/`.
+- Hosted on **GitHub Pages** — anyone can access it via https://parasjain2006.github.io/healthcare-finder/
 
 ---
