@@ -13,7 +13,7 @@ A simple and interactive **web application** to find nearby **hospitals, doctors
 ---
 
 ## How to Use
-1. Open the live site: `https://parasjain2006.github.io/healthcare-finder/`  
+1. Open the live site: https://parasjain2006.github.io/healthcare-finder/
 2. Allow **location access** for accurate nearby results  
 3. Click on the facility type you want to find (hospital, doctors, pharmacy, blood bank.)  
 4. See results on the **map** and in the **list**  
