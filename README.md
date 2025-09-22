@@ -5,10 +5,10 @@ A simple and interactive **web application** to find nearby **hospitals, doctors
 ---
 
 ## Features
-- 🔹 Interactive **map view** for nearby healthcare facilities.
-- 🔹 Ordered **list view** showing facilities **closest first**.
-- 🔹 Search and filter options for hospitals, doctors, pharmacies, and blood banks.
-- 🔹 Fully **client-side** — no backend required.
+- Interactive **map view** for nearby healthcare facilities.
+- Ordered **list view** showing facilities **closest first**.
+- Search and filter options for hospitals, doctors, pharmacies, and blood banks.
+- Fully **client-side** — no backend required.
 
 ---
 
